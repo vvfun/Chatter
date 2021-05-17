@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">chatter</string>
+    <string name="chatter_online">Online</string>
+    <string name="chatter_busy">Busy</string>
+    <string name="chatter_offline">Offline</string>
+    <string name="chatter_user_busy">User busy!</string>
+    <string name="chatter_user_offline">User offline!</string>
+    <string name="chatter_charge_gift_title">Buy now to send gifts to impress your love...</string>
+    <string name="chatter_user_call_hint">Connecting to %1$s……\n%2$sWhat do you want to talk with your girl?</string>
+    <string name="chatter_anchor_received_hint">You received a call from %1$s.\nTalk longer, earn more!!!\nPick up now!</string>
+    <string name="chatter_user_received_hint">You received a call from %1$s.\n%2$sWhat do you want to talk with your girl?</string>
+    <string name="chatter_anchor_call_hint">Connecting to %1$s……</string>
+    <string name="chatter_error_template">Temporary issue, please try again later!</string>
+    <string name="chatter_insufficient_Diamonds">Insufficient Coins</string>
+    <string name="chatter_insufficient_diamonds_hint">You don’t have enough coins. Please make a purchase.</string>
+    <string name="chatter_google_pending_hint">Your payment is pending on Google’s confirmation. We will add coins you purchased as soon as we receive the confirmation!</string>
+    <string name="chatter_google_error">Payment failed. Try again or use a different payment method.</string>
+    <string name="chatter_format_chat_time">Chat %s times</string>
+    <string name="chatter_buy_diamond_success">You have bought coins successfully.</string>
+</resources>

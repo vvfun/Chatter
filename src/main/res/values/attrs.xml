@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ImageViewRatio">
+        <attr name="ratio" format="float" />
+        <attr name="round_rect_radius" format="integer" />
+    </declare-styleable>
+
+
+
+    <declare-styleable name="RoundRectImageView">
+        <attr name="round_radius" format="integer" />
+        <attr name="only_top_round" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="ScaleLayout">
+        <attr name="width_height_scale" format="float"/>
+    </declare-styleable>
+
+    <declare-styleable name="Gift">
+        <attr name="gift_img" format="reference" />
+        <attr name="gift_name" format="string" />
+        <attr name="gift_value" format="string" />
+    </declare-styleable>
+
+
+
+    <declare-styleable name="rateStar">
+        <attr name="rs_count" format="float" />
+    </declare-styleable>
+
+</resources>
